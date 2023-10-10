@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PostTraining</string>
+    <string name="registerTitle">Registration Account</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="HomeTitle">Title</string>
+    <string name="insertProductTitle">Insert Product</string>
+    <string name="productType">Product Type</string>
+    <string name="productName">Product Name</string>
+    <string name="insertProduct">Insert Product</string>
+</resources>
